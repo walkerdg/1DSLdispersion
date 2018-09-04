@@ -1,7 +1,7 @@
 # 1DSLdispersion
 Calculate the one-dimensional phonon dispersion of a superlattice
 
-The input gives the realtive size of the masses in a one-dimensional chain arranged in a superlattice.  The lattice can have mulitple types of layers each delineated with square brackets.  The unit is quare brackets is multiplies the specified number of time to create a single layer.  All layers are grouped in round brackets and multiplied by any number of times.  
+The input gives the relative size of the masses in a one-dimensional chain arranged in a superlattice.  The lattice can have mulitple types of layers each delineated with square brackets.  The unit is quare brackets is multiplies the specified number of time to create a single layer.  All layers are grouped in round brackets and multiplied by any number of times.  
 
 m = 10*(3*[1] + 4*[2, 3])
 
